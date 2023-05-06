@@ -1,0 +1,2 @@
+Mô tả:
+Ứng dụng mã hóa/giải mã bất kì văn bản nào theo hệ thống Base 64
